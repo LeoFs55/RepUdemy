@@ -39,10 +39,3 @@ resultado = val1int+val2int if soma else\
             val1int/val2int if divisao else\
             print('Você não digitou nenhum indice corresondente.')
 print(f'O resultado dessa operação é {resultado}')
-if ...:
-    ...
-else:
-    if ...:
-        ...
-    else:
-        ...
