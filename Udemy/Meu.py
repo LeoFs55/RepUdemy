@@ -1,7 +1,5 @@
 resultado_cpf = []
 resultado_cpf_calculo = ''
-cpf_com_um_digito = ''
-cpf_com_dois_digitos = ''
 entrada_cpf = ''
 cpf_entrada_tratado = ''
 def digitos(cpf):
