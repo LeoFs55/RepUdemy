@@ -13,4 +13,4 @@ if eleitor:
 elif facultativo:
     print('Você não precisa, mas caso queira é bom votar.')
 else:
-    print('Você não precisa ainda não pode votar.')    
+    print('Você ainda não pode votar.')    
